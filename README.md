@@ -10,12 +10,12 @@
 
 ## Contenido
 
-1. [Análisis](#1-análisis)
-2. [Planificación](#2-planificación)
-3. [Diseño](#3-diseño)
-4. [Implementación](#4-implementación)
-5. [Despliegue](#5-despliegue)
-6. [Bibliografía](#6-bibliografía)
+1. [Análisis](#análisis)
+2. [Planificación](#planificación)
+3. [Diseño](#diseño)
+4. [Implementación](#implementación)
+5. [Despliegue](#despliegue)
+6. [Bibliografía](#bibliografía)
 
 ---
 
