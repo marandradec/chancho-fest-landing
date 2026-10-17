@@ -115,7 +115,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #4eb980;
+		color: #2c3e50;
 		text-decoration: none;
 	}
 
@@ -2107,7 +2107,7 @@ input, select, textarea {
 		select:focus,
 		textarea:focus {
 			background: rgba(224, 224, 224, 0.15);
-			border-color: #4eb980;
+			border-color: #2c3e50;
 		}
 
 	input[type="text"],
@@ -2174,24 +2174,23 @@ input, select, textarea {
 	}
 
 		.image:after {
-			-moz-transition: opacity 0.25s ease-in-out;
-			-webkit-transition: opacity 0.25s ease-in-out;
-			-ms-transition: opacity 0.25s ease-in-out;
-			transition: opacity 0.25s ease-in-out;
-			background-image: url("images/overlay.png");
-			content: '';
-			display: block;
-			height: 100%;
-			left: 0;
-			opacity: 0.2;
-			position: absolute;
-			top: 0;
-			width: 100%;
+			display: none;
 		}
 
 		.image img {
 			display: block;
+            -moz-transition: -moz-transform 0.4s ease;
+            -webkit-transition: -webkit-transform 0.4s ease;
+            -ms-transition: -ms-transform 0.4s ease;
+            transition: transform 0.4s ease;
 		}
+
+		.image:hover img {
+            -moz-transform: scale(1.05);
+            -webkit-transform: scale(1.05);
+            -ms-transform: scale(1.05);
+            transform: scale(1.05);
+        }
 
 		.image.fit {
 			display: block;
@@ -2707,7 +2706,7 @@ input, select, textarea {
 
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
-		background-image: url("images/top-3200.svg"), url("images/overlay.png"), url("../../images/header.jpg");
+		background-image: url("images/top-3200.svg"), linear-gradient(rgba(26, 37, 48, 0.88), rgba(26, 37, 48, 0.88)), url("../../images/header.jpg");
 		background-position: bottom center,					top left,				center center;
 		background-repeat: repeat-x,						repeat,					no-repeat;
 		background-size: 3200px 460px,					auto,					cover;
@@ -2744,7 +2743,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #4eb980;
+				color: #2c3e50;
 			}
 
 		#header strong, #header b {
@@ -2764,7 +2763,7 @@ input, select, textarea {
 		}
 
 		#header .logo {
-			background: #4eb980;
+			background: #d45d3a;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -2797,7 +2796,7 @@ input, select, textarea {
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #4eb980;
+		background-color: #1a2530;
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
@@ -2848,7 +2847,7 @@ input, select, textarea {
 		#footer .button {
 			background: #ffffff;
 			box-shadow: inset 0 0 0 1px #ffffff;
-			color: #4eb980;
+			color: #2c3e50;
 		}
 
 			#footer input[type="submit"]:hover,
@@ -3023,7 +3022,7 @@ input, select, textarea {
 
 			#header {
 				background-attachment: scroll,							scroll,							scroll;
-				background-image: url("images/top-1600.svg"), url("images/overlay.png"), url("../../images/header.jpg");
+				background-image: url("images/top-1600.svg"), linear-gradient(rgba(26, 37, 48, 0.88), rgba(26, 37, 48, 0.88)), url("../../images/header.jpg");
 				background-size: 1600px 230px,					auto,							cover;
 				padding: 6em 0 12em 0;
 			}
@@ -3175,7 +3174,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				background-image: url("images/top-1280.svg"), url("images/overlay.png"), url("../../images/header.jpg");
+				background-image: url("images/top-1280.svg"), linear-gradient(rgba(26, 37, 48, 0.88), rgba(26, 37, 48, 0.88)), url("../../images/header.jpg");
 				background-size: 1280px 184px,						auto,							cover;
 				padding: 3em 0 7em 0;
 			}
