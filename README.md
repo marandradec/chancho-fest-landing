@@ -1,3 +1,10 @@
+# ESCUELA SUPERIOR POLITÉCNICA DEL LITORAL
+## Facultad de Ingeniería en Electricidad y Computación
+### Proyecto 02 - Fase 3: Desarrollo (Sprint 1)
+**Evento:** Chancho Fest 2026 - Parque Samanes  
+**Integrantes:** María Cristina Andrade Echeverría & Robert Jaren Pilco Almeida  
+
+---
 # Proyecto 02 - Fase 3: Desarrollo - Sprint 1
 **Materia:** Desarrollo de Aplicaciones Web y Móviles
 **Integrantes:** Andrade María y Pilco Robert
@@ -66,4 +73,5 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
