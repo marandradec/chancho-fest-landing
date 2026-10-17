@@ -26,9 +26,9 @@ Se evaluaron tres opciones gratuitas de HTML5 UP:
 
 | Imagen | Dónde se usa | Autor | Fuente |
 |---|---|---|---|
-| `pic011.jpeg` | Sección «Comercio y Gastronomía» | Revista Zona Libre |https://www.revistazonalibre.ec/2026/09/14/el-chancho-fest-2026-presenta-50-ricuras-de-cerdo-conciertos-y-show-bailable/ |
+| `pic01.jpeg` | Sección «Comercio y Gastronomía» | Revista Zona Libre |https://www.revistazonalibre.ec/2026/09/14/el-chancho-fest-2026-presenta-50-ricuras-de-cerdo-conciertos-y-show-bailable/ |
 | `pic02.jpeg` | Sección «El Ritmo del Público» | El Universo | https://www.eluniverso.com/guayaquil/comunidad/chancho-fest-2026-reunira-50-preparaciones-de-cerdo-y-shows-artisticos-en-parque-samanes-la-entrada-es-gratuita-y-se-preve-recibir-a-30000-personas-nota/ |
-| `pic033.jpeg` | Sección «La Voz de la Comunidad» | equipo de trabajo (Andrade María y Pilco Robert) | propio |
+| `pic03.jpeg` | Sección «La Voz de la Comunidad» | equipo de trabajo (Andrade María y Pilco Robert) | Elaboración propia |
 
 *Las fotografías propias fueron tomadas por los integrantes del equipo durante el Chancho Fest, del 2 al 4 de octubre de 2026, en el Parque Samanes.*
 ---
