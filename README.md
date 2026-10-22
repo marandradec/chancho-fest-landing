@@ -68,7 +68,7 @@ El diseño visual y de experiencia de usuario, conocido como UI/UX, se definió 
 
 ## Implementación
 
-Partimos de la plantilla Directive, que descargamos y subimos al repositorio para trabajar sobre ella. Cambiamos los textos de index.html para mostrar la información del evento Chancho Fest y reemplazamos las imágenes pic01, pic02 y pic03 por fotos del evento, eliminando las originales. También modificamos los estilos de assets/css/main.css para que las fotos se vieran completas dentro de su recuadro. En el README.md dejamos escrita la justificación de la plantilla y los créditos de las imágenes, y mantuvimos en el pie de página el crédito a HTML5 UP que exige su licencia.
+Partimos de la plantilla Directive, que descargamos y subimos al repositorio para trabajar sobre ella. Cambiamos los textos de index.html para mostrar la información del evento Chancho Fest y reemplazamos las imágenes pic01, pic02 y pic03 por fotos del evento, eliminando las originales. También modificamos los estilos de assets/css/main.css para que las fotos se vieran completas dentro de su recuadro. En el README.md dejamos escrita la justificación de la plantilla y los créditos de las imágenes, y mantuvimos en el pie de página el crédito a HTML5 UP que exige su licencia. Además, agregamos una sección con un video de TikTok incrustado junto al texto de introducción y una sección con un mapa de Google Maps que muestra la ubicación del evento.
 
 ---
 
@@ -101,6 +101,15 @@ Todo el código está en un repositorio público de GitHub. Cada integrante trab
 *Las fotografías propias fueron tomadas por los integrantes del equipo durante el Chancho Fest, del 2 al 4 de octubre de 2026, en el Parque Samanes.*
 
 ---
+
+## Créditos del video y el mapa
+
+| Recurso | Dónde se usa | Autor | Fuente |
+|---|---|---|---|
+| Video «El sabor del chancho se vive en Chancho Fest» | Sección de introducción (junto al texto «Explorando el corazón del Chancho Fest») | @carochen12 | [TikTok](https://www.tiktok.com/@carochen12/video/7692218106416008500) |
+| Mapa del Parque Samanes | Sección «¿Dónde fue el evento?» | Google Maps | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parque+Samanes+Guayaquil) |
+
+*El video se muestra mediante el reproductor oficial de TikTok y pertenece a su autora. El mapa se incrusta desde Google Maps.*
 
 *(Créditos originales de la plantilla a continuación)*
 
