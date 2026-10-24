@@ -78,6 +78,13 @@ Todo el código está en un repositorio público de GitHub. Cada integrante trab
 
 ---
 
+## Enlaces del Proyecto
+
+- **Landing Page (GitHub Pages):** [https://marandradec.github.io/chancho-fest-landing/](https://marandradec.github.io/chancho-fest-landing/)
+- **Repositorio GitHub:** [https://github.com/marandradec/chancho-fest-landing](https://github.com/marandradec/chancho-fest-landing)
+
+---
+
 ## Bibliografía
 
 * El Universo. (2026). *Chancho Fest 2026 reunirá 50 preparaciones de cerdo y shows artísticos en Parque Samanes*. https://www.eluniverso.com/guayaquil/comunidad/chancho-fest-2026-reunira-50-preparaciones-de-cerdo-y-shows-artisticos-en-parque-samanes-la-entrada-es-gratuita-y-se-preve-recibir-a-30000-personas-nota/
