@@ -4,7 +4,7 @@
 **Proyecto 02 - Fase 3: Desarrollo - Sprint 1**  
 **Materia:** Desarrollo de Aplicaciones Web y Móviles  
 **Evento:** Chancho Fest 2026 - Parque Samanes  
-**Integrantes:** María Cristina Andrade Echeverría & Robert Jaren Pilco Almeida  
+**Elaborado por:** María Cristina Andrade Echeverría y Robert Jaren Pilco Almeida  
 
 ---
 
@@ -68,7 +68,7 @@ El diseño visual y de experiencia de usuario, conocido como UI/UX, se definió 
 
 ## Implementación
 
-Partimos de la plantilla Directive, que descargamos y subimos al repositorio para trabajar sobre ella. Cambiamos los textos de index.html para mostrar la información del evento Chancho Fest y reemplazamos las imágenes pic01, pic02 y pic03 por fotos del evento, eliminando las originales. También modificamos los estilos de assets/css/main.css para que las fotos se vieran completas dentro de su recuadro. En el README.md dejamos escrita la justificación de la plantilla y los créditos de las imágenes, y mantuvimos en el pie de página el crédito a HTML5 UP que exige su licencia. Además, agregamos una sección con un video de TikTok incrustado junto al texto de introducción y una sección con un mapa de Google Maps que muestra la ubicación del evento.
+Partimos de la plantilla Directive, que descargamos y subimos al repositorio para trabajar sobre ella. Cambiamos los textos de index.html para mostrar la información del evento Chancho Fest y reemplazamos las imágenes principales. Además, agregamos una sección de galería interactiva con 6 fotografías de nuestra experiencia (de pic04.jpg a pic09.jpg), implementando un diseño con efectos de opacidad en reposo, tarjetas con fondo oscuro elegante, micro-zoom y etiquetas flotantes interactivas (VER). En los estilos de assets/css/main.css, optimizamos el encuadre de las fotos (object-fit: cover con alturas de 280px para evitar recortes en rostros y locales) y mejoramos los espaciados verticales entre secciones. También integramos un video de TikTok incrustado y una sección con la ubicación del evento. Mantenemos el crédito a HTML5 UP que exige su licencia.
 
 ---
 
@@ -94,11 +94,12 @@ Todo el código está en un repositorio público de GitHub. Cada integrante trab
 
 | Imagen | Dónde se usa | Autor | Fuente |
 |---|---|---|---|
-| `pic01.jpeg` | Sección «Comercio y Gastronomía» | Revista Zona Libre | [Revista Zona Libre](https://www.revistazonalibre.ec/2026/09/14/el-chancho-fest-2026-presenta-50-ricuras-de-cerdo-conciertos-y-show-bailable/) |
-| `pic02.jpeg` | Sección «El Ritmo del Público» | El Universo | [El Universo](https://www.eluniverso.com/guayaquil/comunidad/chancho-fest-2026-reunira-50-preparaciones-de-cerdo-y-shows-artisticos-en-parque-samanes-la-entrada-es-gratuita-y-se-preve-recibir-a-30000-personas-nota/) |
-| `pic03.jpeg` | Sección «La Voz de la Comunidad» | Equipo de trabajo (Andrade María y Pilco Robert) | Elaboración propia |
+| pic01.jpeg | Sección «Comercio y Gastronomía» | Revista Zona Libre | [Revista Zona Libre](https://www.revistazonalibre.ec/2026/09/14/el-chancho-fest-2026-presenta-50-ricuras-de-cerdo-conciertos-y-show-bailable/) |
+| pic02.jpeg | Sección «El Ritmo del Público» | El Universo | [El Universo](https://www.eluniverso.com/guayaquil/comunidad/chancho-fest-2026-reunira-50-preparaciones-de-cerdo-y-shows-artisticos-en-parque-samanes-la-entrada-es-gratuita-y-se-preve-recibir-a-30000-personas-nota/) |
+| pic03.jpeg | Sección «La Voz de la Comunidad» | Andrade María y Pilco Robert | Elaboración propia |
+| pic04.jpg al pic09.jpg | Sección «Nuestra experiencia» (Galería interactiva) | Andrade María y Pilco Robert | Elaboración propia |
 
-*Las fotografías propias fueron tomadas por los integrantes del equipo durante el Chancho Fest, del 2 al 4 de octubre de 2026, en el Parque Samanes.*
+Las fotografías propias fueron tomadas por María Cristina Andrade y Robert Jaren Pilco durante el Chancho Fest, del 2 al 4 de octubre de 2026, en el Parque Samanes.
 
 ---
 
